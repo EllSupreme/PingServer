@@ -8,6 +8,6 @@ Pour plus de détails, référez-vous au texte de licence disponible [ici](LICEN
 
 ## Description
 
- Class allowing to retrieve information from a server.
+ Class allowing to retrieve information from a server. /
  Class permettant de récupérer des informations d'un serveur.
 
