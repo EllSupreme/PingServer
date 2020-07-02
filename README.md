@@ -5,12 +5,6 @@ Pour plus de détails, référez-vous au texte de licence disponible [ici](LICEN
 
 ------------------------------------
 
-- Nom : Test
-- Type : Essai
-- État : Terminé
-- Développeur(s) : Skyzen
-- CDC (Si existant) :
-
 
 ## Description
 
