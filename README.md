@@ -13,9 +13,5 @@ Server Version | Support
 1.14           |   ✔
 1.15           |   ✔
 
----
-
-## Usage
-
 ## Developer
 - Supreme_
