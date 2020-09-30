@@ -1,3 +1,10 @@
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/Version-1.01-%2376B900.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Stability" src="https://img.shields.io/badge/Stability-Stable-%230071C5.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Updates" src="https://img.shields.io/badge/Current-No Updated-%23ED1C24.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Language" src="https://img.shields.io/badge/Lang-java-%23ED8B00.svg?&style=for-the-badge&logo=&logoColor=white" />
+</p>
+
 # PingServer
 
  Class allowing to retrieve information from a server.
