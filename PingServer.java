@@ -1,4 +1,4 @@
-package fr.ellsupreme.pingserver;
+package io.nathan.pingserver;
 
 import java.io.IOException;
 import java.io.InputStream;
