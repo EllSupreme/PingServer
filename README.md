@@ -23,4 +23,4 @@ Server Version | Support
 1.16           |   ✔
 
 ## Developer
-- Supreme_
+- [Nathan Guillaume](https://github.com/Nathan-Guillaume)
